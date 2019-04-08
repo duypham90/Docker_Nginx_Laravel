@@ -1,4 +1,5 @@
 # Docker
+> Should read Docker with AWS (ECR/ECS), d CircleCI/Jenkins
 
 ## Build docker: 
 - docker-compose up -d
