@@ -8,4 +8,15 @@
 - docker-compose stop
 
 ## exec container in docker
-- docker exec -it docker_nginx_1 /bin/bash
+
+```
+exec nginx
+- docker exec -it nginx /bin/bash
+```
+
+```
+exec mysql
+- docker exec -it db /bin/bash
+>> mysql -u root -p
+```
+
